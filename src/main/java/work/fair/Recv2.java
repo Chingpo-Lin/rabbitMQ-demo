@@ -14,7 +14,7 @@ public class Recv2 {
         ConnectionFactory factory = new ConnectionFactory();
         factory.setHost("120.24.94.91");
         factory.setUsername("admin");
-        factory.setPassword("ljb112233");
+        factory.setPassword("cannot let u know");
         factory.setVirtualHost("/dev");
         factory.setPort(5672);
 
